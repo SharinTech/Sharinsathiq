@@ -1,7 +1,7 @@
 # Hi, I'm Sharinsathiq 👋  
-Aspiring Full-Stack Developer  
+Aspiring Full-Stack Developer 
 
-## 🛠️ Skills
+
 
 ## 🛠️ Skills
 
